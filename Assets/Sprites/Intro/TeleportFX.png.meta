@@ -1,0 +1,1004 @@
+fileFormatVersion: 2
+guid: 55fbc08e2156f6f4e93d26e58b0c4048
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1236581809724523748
+    second: TeleportFX_0
+  - first:
+      213: -6527491602311736294
+    second: TeleportFX_1
+  - first:
+      213: -5328782424958524326
+    second: TeleportFX_2
+  - first:
+      213: 8815694829389148207
+    second: TeleportFX_3
+  - first:
+      213: -9104869450344540378
+    second: TeleportFX_4
+  - first:
+      213: -833815568077051922
+    second: TeleportFX_5
+  - first:
+      213: -3718810523733781132
+    second: TeleportFX_6
+  - first:
+      213: -1777483461661309649
+    second: TeleportFX_7
+  - first:
+      213: -2355238908592321431
+    second: TeleportFX_8
+  - first:
+      213: 4814040550034478532
+    second: TeleportFX_9
+  - first:
+      213: -8146845824213893416
+    second: TeleportFX_10
+  - first:
+      213: 1660908191837394526
+    second: TeleportFX_11
+  - first:
+      213: 5040972957449644791
+    second: TeleportFX_12
+  - first:
+      213: 3153541303511522144
+    second: TeleportFX_13
+  - first:
+      213: 1145618169864868980
+    second: TeleportFX_14
+  - first:
+      213: 6696441810995720847
+    second: TeleportFX_15
+  - first:
+      213: 4064841808304614954
+    second: TeleportFX_16
+  - first:
+      213: -8943236574285095824
+    second: TeleportFX_17
+  - first:
+      213: -4052735044823814274
+    second: TeleportFX_18
+  - first:
+      213: 5143445130589179887
+    second: TeleportFX_19
+  - first:
+      213: 8721540543603410860
+    second: TeleportFX_20
+  - first:
+      213: -2420242906490160335
+    second: TeleportFX_21
+  - first:
+      213: 7603063444233907647
+    second: TeleportFX_22
+  - first:
+      213: 1417692770394531332
+    second: TeleportFX_23
+  - first:
+      213: 2499267320697991297
+    second: TeleportFX_24
+  - first:
+      213: 5355397308885531617
+    second: TeleportFX_25
+  - first:
+      213: -227053846632632440
+    second: TeleportFX_26
+  - first:
+      213: -7217642226994611840
+    second: TeleportFX_27
+  - first:
+      213: 242748954615091364
+    second: TeleportFX_28
+  - first:
+      213: -9126890345328430935
+    second: TeleportFX_29
+  - first:
+      213: -5369467459293711064
+    second: TeleportFX_30
+  - first:
+      213: 693776543340590628
+    second: TeleportFX_31
+  - first:
+      213: -6219162020947622708
+    second: TeleportFX_32
+  - first:
+      213: 7298803584035442537
+    second: TeleportFX_33
+  - first:
+      213: 3922478119432243847
+    second: TeleportFX_34
+  - first:
+      213: 8936896116406323404
+    second: TeleportFX_35
+  - first:
+      213: 9166871033482692436
+    second: TeleportFX_36
+  - first:
+      213: -621633624229554725
+    second: TeleportFX_37
+  - first:
+      213: -2293440170944197276
+    second: TeleportFX_38
+  - first:
+      213: 3679485648063219373
+    second: TeleportFX_39
+  - first:
+      213: 6869926968698903997
+    second: TeleportFX_40
+  - first:
+      213: -4486553844874529077
+    second: TeleportFX_41
+  - first:
+      213: 6242504452511632654
+    second: TeleportFX_42
+  - first:
+      213: -8754100564284367750
+    second: TeleportFX_43
+  - first:
+      213: -897916242853578136
+    second: TeleportFX_44
+  - first:
+      213: -929662211823459897
+    second: TeleportFX_45
+  - first:
+      213: 3811282089215607747
+    second: TeleportFX_46
+  - first:
+      213: -5842893270269413165
+    second: TeleportFX_47
+  - first:
+      213: 4549973204363579263
+    second: TeleportFX_48
+  - first:
+      213: 6208300330407722955
+    second: TeleportFX_49
+  - first:
+      213: 4517771538151398000
+    second: TeleportFX_50
+  - first:
+      213: -8564345829080523673
+    second: TeleportFX_51
+  - first:
+      213: 7272073262476657660
+    second: TeleportFX_52
+  - first:
+      213: 5454676547947416216
+    second: TeleportFX_53
+  - first:
+      213: -8005906833301523598
+    second: TeleportFX_54
+  - first:
+      213: 7667942713853410855
+    second: TeleportFX_55
+  - first:
+      213: 587457305822382934
+    second: TeleportFX_56
+  - first:
+      213: -3645169126675625926
+    second: TeleportFX_57
+  - first:
+      213: -1423242927902428415
+    second: TeleportFX_58
+  - first:
+      213: 2535897577727644948
+    second: TeleportFX_59
+  - first:
+      213: 2778765959764802067
+    second: TeleportFX_60
+  - first:
+      213: 3649586542121085704
+    second: TeleportFX_61
+  - first:
+      213: 1503975697211602053
+    second: TeleportFX_62
+  - first:
+      213: 4029648898399695507
+    second: TeleportFX_63
+  - first:
+      213: 2577666935760311186
+    second: TeleportFX_64
+  - first:
+      213: -359698424148912818
+    second: TeleportFX_65
+  - first:
+      213: 1240941365007493612
+    second: TeleportFX_66
+  - first:
+      213: 2059060106981237770
+    second: TeleportFX_67
+  - first:
+      213: -3193086640501395843
+    second: TeleportFX_68
+  - first:
+      213: 1002480831489535532
+    second: TeleportFX_69
+  - first:
+      213: -5490164718182496464
+    second: TeleportFX_70
+  - first:
+      213: -6317226232424538058
+    second: TeleportFX_71
+  - first:
+      213: -7306559195495785849
+    second: TeleportFX_72
+  - first:
+      213: -4632056485848879948
+    second: TeleportFX_73
+  - first:
+      213: 8666731609229852583
+    second: TeleportFX_74
+  - first:
+      213: -8500670071217662486
+    second: TeleportFX_75
+  - first:
+      213: -5709073707750229983
+    second: TeleportFX_76
+  - first:
+      213: -7891466111195140281
+    second: TeleportFX_77
+  - first:
+      213: 6618134621537543163
+    second: TeleportFX_78
+  - first:
+      213: -3205777096934382733
+    second: TeleportFX_79
+  - first:
+      213: 5587354570669987563
+    second: TeleportFX_80
+  - first:
+      213: 5682974498523105398
+    second: TeleportFX_81
+  - first:
+      213: -3101541840788859582
+    second: TeleportFX_82
+  - first:
+      213: -5367348022255778079
+    second: TeleportFX_83
+  - first:
+      213: -4385910841136416816
+    second: TeleportFX_84
+  - first:
+      213: -5499142608702663033
+    second: TeleportFX_85
+  - first:
+      213: 8925993083551785248
+    second: TeleportFX_86
+  - first:
+      213: -1412297069966936479
+    second: TeleportFX_87
+  - first:
+      213: 4863646502340407750
+    second: TeleportFX_88
+  - first:
+      213: 286561188323483600
+    second: TeleportFX_89
+  - first:
+      213: -6202590644515990388
+    second: TeleportFX_90
+  - first:
+      213: 1218004945028112368
+    second: TeleportFX_91
+  - first:
+      213: -5431570779072745776
+    second: TeleportFX_92
+  - first:
+      213: 2259046274352492133
+    second: TeleportFX_93
+  - first:
+      213: -4046931483588316025
+    second: TeleportFX_94
+  - first:
+      213: 6650078301460802807
+    second: TeleportFX_95
+  - first:
+      213: -7537751439241779938
+    second: TeleportFX_96
+  - first:
+      213: 4290323946714511048
+    second: TeleportFX_97
+  - first:
+      213: 7269461462353222912
+    second: TeleportFX_98
+  - first:
+      213: 6146422438099940496
+    second: TeleportFX_99
+  - first:
+      213: 1534730973643865703
+    second: TeleportFX_100
+  - first:
+      213: 3558027149220118713
+    second: TeleportFX_101
+  - first:
+      213: 226239388663023369
+    second: TeleportFX_102
+  - first:
+      213: 136465848284727254
+    second: TeleportFX_103
+  - first:
+      213: -6330645305768755448
+    second: TeleportFX_104
+  - first:
+      213: 1163828314094843494
+    second: TeleportFX_105
+  - first:
+      213: -5332199604553899033
+    second: TeleportFX_106
+  - first:
+      213: 3158207882551743604
+    second: TeleportFX_107
+  - first:
+      213: -988526562299852498
+    second: TeleportFX_108
+  - first:
+      213: -5549540520498614797
+    second: TeleportFX_109
+  - first:
+      213: 7882923187107898668
+    second: TeleportFX_110
+  - first:
+      213: 1222250272610471234
+    second: TeleportFX_111
+  - first:
+      213: -4206472049968610938
+    second: TeleportFX_112
+  - first:
+      213: -8861700910318230720
+    second: TeleportFX_113
+  - first:
+      213: -1523883244116464252
+    second: TeleportFX_114
+  - first:
+      213: 3344211004415411324
+    second: TeleportFX_115
+  - first:
+      213: -1998015996394502623
+    second: TeleportFX_116
+  - first:
+      213: 8554156484655738385
+    second: TeleportFX_117
+  - first:
+      213: -8627481290827339659
+    second: TeleportFX_118
+  - first:
+      213: -1735582800055780230
+    second: TeleportFX_119
+  - first:
+      213: -3652105950800802949
+    second: TeleportFX_120
+  - first:
+      213: -8863878990940606483
+    second: TeleportFX_121
+  - first:
+      213: 596975894442644190
+    second: TeleportFX_122
+  - first:
+      213: 6446003255215889178
+    second: TeleportFX_123
+  - first:
+      213: -2722571495548127566
+    second: TeleportFX_124
+  - first:
+      213: 6128857981962951110
+    second: TeleportFX_125
+  - first:
+      213: 8570190077531393358
+    second: TeleportFX_126
+  - first:
+      213: -1456990809286966329
+    second: TeleportFX_127
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TeleportFX_0
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 768
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1bf8af4567c6dee0800000000000000
+      internalID: -1236581809724523748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeleportFX_1
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a141dd9c8f0b965a0800000000000000
+      internalID: -6527491602311736294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeleportFX_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a54a00b1e9c5c06b0800000000000000
+      internalID: -5328782424958524326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeleportFX_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f20fcf16db3a75a70800000000000000
+      internalID: 8815694829389148207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeleportFX_4
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62758ed797105a180800000000000000
+      internalID: -9104869450344540378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeleportFX_5
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee7a3989821bd64f0800000000000000
+      internalID: -833815568077051922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeleportFX_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4751dd12881246cc0800000000000000
+      internalID: -3718810523733781132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeleportFX_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f25cb89853c1557e0800000000000000
+      internalID: -1777483461661309649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeleportFX_8
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96c0d24f0b2805fd0800000000000000
+      internalID: -2355238908592321431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeleportFX_9
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c59127df58eec240800000000000000
+      internalID: 4814040550034478532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeleportFX_10
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8de3bdff2e690fe80800000000000000
+      internalID: -8146845824213893416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeleportFX_11
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e56110b533bbc0710800000000000000
+      internalID: 1660908191837394526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeleportFX_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fae223523225f540800000000000000
+      internalID: 5040972957449644791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeleportFX_13
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06b935c7b11a3cb20800000000000000
+      internalID: 3153541303511522144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeleportFX_14
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 474570fd7ad06ef00800000000000000
+      internalID: 1145618169864868980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeleportFX_15
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f82397b095a8eec50800000000000000
+      internalID: 6696441810995720847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeleportFX_16
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2e27249618396830800000000000000
+      internalID: 4064841808304614954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeleportFX_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07c947f08bd33e380800000000000000
+      internalID: -8943236574285095824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeleportFX_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7fef74f2fac1c7c0800000000000000
+      internalID: -4052735044823814274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeleportFX_19
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fef0b7a5810316740800000000000000
+      internalID: 5143445130589179887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeleportFX_20
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca706ab6ae2290970800000000000000
+      internalID: 8721540543603410860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeleportFX_21
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13bbe7846e1996ed0800000000000000
+      internalID: -2420242906490160335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 3de44456410919d4fa36e0a3b91ad089
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      TeleportFX_0: -1236581809724523748
+      TeleportFX_1: -6527491602311736294
+      TeleportFX_10: -8146845824213893416
+      TeleportFX_11: 1660908191837394526
+      TeleportFX_12: 5040972957449644791
+      TeleportFX_13: 3153541303511522144
+      TeleportFX_14: 1145618169864868980
+      TeleportFX_15: 6696441810995720847
+      TeleportFX_16: 4064841808304614954
+      TeleportFX_17: -8943236574285095824
+      TeleportFX_18: -4052735044823814274
+      TeleportFX_19: 5143445130589179887
+      TeleportFX_2: -5328782424958524326
+      TeleportFX_20: 8721540543603410860
+      TeleportFX_21: -2420242906490160335
+      TeleportFX_3: 8815694829389148207
+      TeleportFX_4: -9104869450344540378
+      TeleportFX_5: -833815568077051922
+      TeleportFX_6: -3718810523733781132
+      TeleportFX_7: -1777483461661309649
+      TeleportFX_8: -2355238908592321431
+      TeleportFX_9: 4814040550034478532
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
