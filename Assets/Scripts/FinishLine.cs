@@ -21,7 +21,7 @@ public class FinishLine : MonoBehaviour
     {
         yield return new WaitForSeconds(3);
         FinishChart.gameObject.SetActive(false);
-        HUDMenu.gameObject.SetActive(false);
+       // HUDMenu.gameObject.SetActive(false);
         FinishMenu.gameObject.SetActive(true);
     }
 }

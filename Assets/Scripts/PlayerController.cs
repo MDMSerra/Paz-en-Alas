@@ -160,6 +160,7 @@ public class PlayerController : MonoBehaviour
         ChangeTag("Player");
         AddEnergy(500);
         this.transform.position = respawnPoint.position;
+        HUDMenu.gameObject.SetActive(true);
     }
     private void OnDisable()
     {
