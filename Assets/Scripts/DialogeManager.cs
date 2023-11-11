@@ -10,11 +10,6 @@ public class DialogeManager : MonoBehaviour
     public TextMeshProUGUI nameText;
     public TextMeshProUGUI dialogueText;
 
-    void Start()
-    {
-        //sentences = new Queue<string>();
-    }
-
     public void StartDialogue(Dialog dialogue)
     {
         sentences = new Queue<string>();

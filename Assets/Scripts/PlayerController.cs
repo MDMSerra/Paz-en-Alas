@@ -16,6 +16,7 @@ public class PlayerController : MonoBehaviour
 
     public RectTransform gameOverMenu;
     public RectTransform HUDMenu;
+    public Transform respawnPoint;
 
 
     private Rigidbody2D _rigidbody;
@@ -150,7 +151,6 @@ public class PlayerController : MonoBehaviour
             _animator.SetTrigger("Death");
             Physics.gravity = new Vector3(0f, -50f, 0f);
             ChangeTag("Death");
-            this.gameObject.layer = 0;
         }
  
     }
@@ -159,6 +159,7 @@ public class PlayerController : MonoBehaviour
         _isDeath = false;
         ChangeTag("Player");
         AddEnergy(500);
+        this.transform.position = respawnPoint.position;
     }
     private void OnDisable()
     {
