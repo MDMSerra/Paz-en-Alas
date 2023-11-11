@@ -149,23 +149,27 @@ public class PlayerController : MonoBehaviour
             _rigidbody.velocity = new Vector2(0, -1);
             _animator.SetTrigger("Death");
             Physics.gravity = new Vector3(0f, -50f, 0f);
-            this.gameObject.tag = "Death";
+            ChangeTag("Death");
             this.gameObject.layer = 0;
-           
         }
+ 
     }
     private void OnEnable()
     {
         _isDeath = false;
-        this.gameObject.tag = "Player";
+        ChangeTag("Player");
         AddEnergy(500);
-
     }
     private void OnDisable()
     {
         gameOverMenu.gameObject.SetActive(true);
         HUDMenu.gameObject.SetActive(false);
         AddEnergy(500);
+    }
+
+    void ChangeTag(string tag)
+    {
+        this.gameObject.tag = tag;
     }
     public bool IsDeath { get { return _isDeath; } }
 }

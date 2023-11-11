@@ -12,11 +12,12 @@ public class DialogeManager : MonoBehaviour
 
     void Start()
     {
-        sentences = new Queue<string>();
+        //sentences = new Queue<string>();
     }
 
     public void StartDialogue(Dialog dialogue)
     {
+        sentences = new Queue<string>();
         Debug.Log("Starting conversation with " + dialogue.name);
         nameText.text = dialogue.name;
 

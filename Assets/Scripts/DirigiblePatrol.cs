@@ -25,6 +25,7 @@ public class DirigiblePatrol : MonoBehaviour
     public float aimingTime = 0.5f;
     public float shootingTime = 0.5f;
 
+    private bool _isAttacking;
     private void Start()
     {
         _rigidbody = GetComponent<Rigidbody2D>();
@@ -32,7 +33,6 @@ public class DirigiblePatrol : MonoBehaviour
         _audio = GetComponent<AudioSource>();
         _currentPoint = pointB.transform;
         CreateDust();
-       
     }
 
     private void Update()
@@ -41,11 +41,9 @@ public class DirigiblePatrol : MonoBehaviour
 
         if (_currentPoint == pointB.transform)
         {
-            //_rigidbody.velocity = new Vector2(speed, 0);
             transform.position = Vector2.MoveTowards(transform.position, pointB.transform.position, speed*Time.deltaTime);
         }else
         {
-            //_rigidbody.velocity = new Vector2(-speed, 0);
             transform.position = Vector2.MoveTowards(transform.position, pointA.transform.position, speed * Time.deltaTime);
         }
 
@@ -64,9 +62,17 @@ public class DirigiblePatrol : MonoBehaviour
         HandleWeaponRotation();
     }
 
+    private void FixedUpdate()
+    {
+        
+        if (_isAttacking)
+        {
+            _rigidbody.velocity = new Vector2(0f, _rigidbody.velocity.y);
+        }
+    }
     private void OnTriggerStay2D(Collider2D collision)
     {
-        if (collision.CompareTag("Player"))
+        if (_isAttacking == false &&  collision.CompareTag("Player"))
         {
             StartCoroutine(AimAndShoot());
         }
@@ -85,10 +91,12 @@ public class DirigiblePatrol : MonoBehaviour
 
     private IEnumerator AimAndShoot()
     {
+        _isAttacking = true;
         yield return new WaitForSeconds(aimingTime);
         _weapon.Shoot();
         _audio.Play();
         yield return new WaitForSeconds(shootingTime);
+        _isAttacking = false;
     }
 
     void CreateDust()
@@ -96,10 +104,16 @@ public class DirigiblePatrol : MonoBehaviour
         dust.Play();
     }
 
+    private void OnEnable()
+    {
+        _isAttacking = false;
+    }
+
 
     private void OnDisable()
     {
-        StopCoroutine(AimAndShoot());  
+        StopCoroutine(AimAndShoot());
+        _isAttacking = false;
     }
 
     void HandleWeaponRotation()
